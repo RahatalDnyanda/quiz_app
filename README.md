@@ -34,7 +34,7 @@ A simple, beautiful quiz app built with Flutter. Answer multiple-choice question
 
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/RahatalDnyanda/Quiz_App.git
+   git clone https://github.com/RahatalDnyanda/quiz_app.git
    cd quizzler
 
 2. **Install dependencies**
